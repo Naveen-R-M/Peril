@@ -4,3 +4,7 @@ This can be done by creating a seperate runnable thread which calls itself recur
 
 ## Disclaimer
 Chances are device getting crashed if very low time period is specified.
+
+### ways to stop the app
+ i)  Clear RAM if possible..
+ ii) Restart your device..
